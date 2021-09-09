@@ -18,7 +18,7 @@ or not each of a number of sequences is a jolly jumper
 |   2   |  [input 1](in1.txt)        | Test input 1                                               |
 |   3   |  [input 2](in2.txt)        | Test input 2                                               |
 |4|[input 3](in3.txt)|Test input 3|
-|   4   |  [P10038](p10038.pdf)      | Online Judge problem 161 pdf                             |
+|   4   |  [10038](p10038.pdf)      | Online Judge problem 161 pdf                             |
 
 ### Sources
 
