@@ -1,3 +1,7 @@
+//Nathan Van De Vyvere
+//CMPS 4883 Programming Techniques
+//Sep 7,2021
+
 #include <iostream>
 #include <vector>
 #include <iomanip>
