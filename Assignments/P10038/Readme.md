@@ -14,7 +14,7 @@ or not each of a number of sequences is a jolly jumper
 
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
-|   1   |  [main.cpp](main.cpp)      | source code                                                |
+|   1   |  [JollyJumper.cpp](JollyJumper.cpp)      | source code                                                |
 |   2   |  [input 1](in1.txt)        | Test input 1                                               |
 |   3   |  [input 2](in2.txt)        | Test input 2                                               |
 |4|[input 3](in3.txt)|Test input 3|
