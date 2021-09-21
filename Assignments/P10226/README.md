@@ -27,7 +27,7 @@ represented by each species.
 |3|[input 2](in2.txt)|Test input 2|
 |4|[input 3](in3.txt)|Test input 3|
 |5|[input 4](in4.txt)|Test input 3|
-|6|[P11080](11080.pdf)|Online Judge problem 10226 pdf|
+|6|[P10226](11080.pdf)|Online Judge problem 10226 pdf|
 
 ### Sources
 
