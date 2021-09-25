@@ -16,7 +16,7 @@ int main(){
     gc = 0;
     guard = true;
     cin >> v >> e;
-    vector<vector<int>> s(v);
+    vector<vector<int> > s(v);
     vector<int> g(v, -1);
 
     for (int i = 0; i < e; i++){

@@ -6,7 +6,7 @@
 
 using namespace std;
 
-void compare(int i, int j, vector<int> &rank, const vector<vector<int>> &stat, const vector<string> Teams){
+void compare(int i, int j, vector<int> &rank, const vector<vector<int> > &stat, const vector<string> Teams){
   vector<string>TeamsTB(Teams);
   for(int i=0; i<TeamsTB.size();i++){
     transform(TeamsTB[i].begin(),TeamsTB[i].end(),TeamsTB[i].begin(), ::tolower);
@@ -72,7 +72,7 @@ void compare(int i, int j, vector<int> &rank, const vector<vector<int>> &stat, c
         }
 }
 
-void stdCompare(int i,int temp, vector<int> &rank,vector<int> &standing,const vector<vector<int>> &stat, const vector<string> Teams){
+void stdCompare(int i,int temp, vector<int> &rank,vector<int> &standing,const vector<vector<int> > &stat, const vector<string> Teams){
   if(standing[rank[i]]==-1){
       standing[rank[i]]=i;
     }
@@ -130,7 +130,7 @@ int main() {
     cin>>T;
     getline(cin,team);
     vector<string> Teams;
-    vector<vector<int>> stat(T, vector<int>(7,0));
+    vector<vector<int> > stat(T, vector<int>(7,0));
     
     while(T>0){
       getline(cin, team);
