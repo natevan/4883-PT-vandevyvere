@@ -11,3 +11,5 @@
 |10017|[P10017](https://github.com/natevan/4883-PT-vandevyvere/tree/main/Assignments/P10017)| Online Judge Problem 10017 - The Never Ending Towers of Hanoi|
 |900|[P900](https://github.com/natevan/4883-PT-vandevyvere/tree/main/Assignments/P900)| Online Judge Problem 900 - Brick Wall Patterns|
 |920|[P920](https://github.com/natevan/4883-PT-vandevyvere/tree/main/Assignments/P920)| Online Judge Problem 920 - Sunny Mountains|
+|108|[P108](https://github.com/natevan/4883-PT-vandevyvere/tree/main/Assignments/P108)| Online Judge Problem 108 - Maximum Sum|
+|112|[P112](https://github.com/natevan/4883-PT-vandevyvere/tree/main/Assignments/P112)| Online Judge Problem 112 - Tree Summing|
